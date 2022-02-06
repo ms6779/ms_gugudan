@@ -5,7 +5,5 @@ for i in range(1,9):
     else:
         if i != 8:
             result += '\n'
-        else:
-            result += ''
 
 print(result)
